@@ -1,3 +1,15 @@
+# Once you have the project installed you need to do some stuff
+## First run
+```
+sudo gem install cocoapods
+```
+## Then navigate to the project directory and run
+```
+pod install
+```
+## Final step
+Open Gravity.xcworkspace.
+
 # Gravity
 "Inertia is a property of mater" —[Bill Nye](https://www.youtube.com/watch?v=d1cTahX4vnM)
 
